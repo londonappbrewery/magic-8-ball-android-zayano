@@ -10,7 +10,7 @@ import android.widget.ImageView;
 import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
-
+//    Project Complete!
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
